@@ -1,0 +1,2 @@
+MainPackage=C:\Users\oppp0\OneDrive\Code\Cpp\Prog.2.1\Release\Prog.2.1\Prog.2.1_1.0.0.0_Win32.msix
+SymbolPackage=C:\Users\oppp0\OneDrive\Code\Cpp\Prog.2.1\Prog.2.1\Release\Symbols\Prog.2.1_1.0.0.0_Win32.appxsym
